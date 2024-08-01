@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnterpriseApplication1/EnterpriseApplication1-ejb/EnterpriseApplication1-ejb.iml" filepath="$PROJECT_DIR$/EnterpriseApplication1/EnterpriseApplication1-ejb/EnterpriseApplication1-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnterpriseApplication1/EnterpriseApplication1-war/EnterpriseApplication1-war.iml" filepath="$PROJECT_DIR$/EnterpriseApplication1/EnterpriseApplication1-war/EnterpriseApplication1-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JobHunter.iml" filepath="$PROJECT_DIR$/.idea/JobHunter.iml" />
+    </modules>
+  </component>
+</project>
